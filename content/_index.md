@@ -1,7 +1,9 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
-  maxWidthPX: 652
+  heading: Во имя Online, Offline и объединяющего их IT. Упрощения процессов и экономии
+    драгоценного времени ради. Админь.
+  maxWidthPX: "652"
 seo:
-  image: /images/hero-2.jpg
+  image: "/images/hero-2.jpg"
+
 ---
