@@ -8,5 +8,6 @@ featured: true
 social:
 - title: Telegram
   url: https://t.me/whiteprime
+draft: true
 
 ---
