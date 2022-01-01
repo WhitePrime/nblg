@@ -1,19 +1,12 @@
 ---
-title: Dennis Brotzky
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/dennis-brotzky.jpg
+title: " White Prime"
+bio: |-
+  Во имя Online, Offline и объединяющего их IT.
+  Упрощения процессов и экономии драгоценного времени ради. Админь.
+avatar: "/images/photo_2018-11-03_07-30-26.jpg"
 featured: true
 social:
-  - title: unsplash
-    url: https://unsplash.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: Telegram
+  url: https://t.me/whiteprime
+
 ---
